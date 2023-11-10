@@ -1,0 +1,27 @@
+h1, h2, h3, h4, h5, h6, p{
+  font-weight: 200;
+}
+
+.content{
+  position: sticky;
+  top: 0;
+}
+
+.side-image{
+  margin: 20px 0px 5px;
+}
+
+.side-text{
+  font-weight: 120;
+  font-size: 13px;
+}
+
+.side-text-small{
+  font-weight: 120;
+  font-size: 9px;
+  margin-left: 50px;
+}
+
+.grid-example{
+  border: 1px solid white;
+}
