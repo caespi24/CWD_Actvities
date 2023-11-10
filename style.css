@@ -2,6 +2,19 @@ h1, h2, h3, h4, h5, h6, p{
   font-weight: 200;
 }
 
+blockquote{
+  border-left: 10px solid rgb(73, 17, 126);
+}
+
+.card-panel{
+  background: linear-gradient(100deg, rgb(28, 32, 65), rgb(40, 40, 174), rgb(16, 30, 181));
+}
+
+
+table.striped>tbody>tr:nth-child(odd){
+  background-color: rgba(0, 255, 0, 0.5);
+}
+
 .content{
   position: sticky;
   top: 0;
